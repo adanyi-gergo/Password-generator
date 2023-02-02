@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    width: 450px;
+    height: 400px;
+    background-color: #1F2937;
+    padding: 40px;
+    font-family: 'Karla', sans-serif;
+}
+
+.header {
+    width: 300px;
+    color: white;
+    margin: 0;
+}
+
+#header-green {
+    color: #4ADF86;
+}
+
+#desc {
+    color: #D5D4D8;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+#generate {
+    background-color: #10B981;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#output-div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.output {
+    background-color: #273549;
+    padding: 10px 60px;
+    color: #55F991;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.line {
+    border: 1px solid #2F3E53;
+}
